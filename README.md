@@ -24,11 +24,10 @@ For more details see https://software.intel.com/en-us/android/articles/garbage-c
 
 In order to use GCW for Android, you will need to have an android device with android version equal or later than 4.0(SDK API level >= 14). Previous version of android was not guaranteed to sucessfully run this workload.
 
-=== Build in Eclipse:
+=== Build in AndroidStudio:
 * The minimum android SDK version should be larger than 10.
-* Start eclipse and click File -> import menu, the import dialog will pop up.
-* Choose General -> Existing Projects into Workspace, and click next.
-* Set the root directory to the path to .project file, GCW for Android will show up, select it and click finish.
-* Now GCW for Android project is imported into eclipse, and eclipse will build this project automatically.
+* Start AndroidStudio and click Import project on menu, the import dialog will pop up.
+* Set the root directory to the folder of GCWA, GCW for Android will show up, select it and click finish.
+* Now GCW for Android project is imported, and it will be built automatically.
 
 

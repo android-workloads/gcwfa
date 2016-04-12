@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\lzang1\StudioProjects\android_workloads-csodev\GCWA\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4dddffdf1f80a1b6d079147f061c61d2de98793b">
+        <dex dex="C:\Users\lzang1\StudioProjects\android_workloads-csodev\GCWA\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0f0606a944143779509aedf479a8408943b8415d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lzang1\StudioProjects\android_workloads-csodev\GCWA\libs\achartengine-1.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4c6a6aef2f3524262111469b7d217b0f33a53fc3">
+        <dex dex="C:\Users\lzang1\StudioProjects\android_workloads-csodev\GCWA\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.2.0_0902b4c0df42dacb1c694ab8013b66fe8bba9fa9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lzang1\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\lzang1\StudioProjects\android_workloads-csodev\GCWA\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_11e90262679313f9a3e6fa560bfe1a57b135674a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lzang1\StudioProjects\android_workloads-csodev\GCWA\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e7f8d84f976fc30f2009c0fdc201f3e23d3e4aab">
+        <dex dex="C:\Users\lzang1\StudioProjects\android_workloads-csodev\GCWA\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a233863f8f4d6ab0f874be7a8d1b5bbd302fcac4\classes.dex" />
+    </item>
+
+</items>
